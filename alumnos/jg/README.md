@@ -1,0 +1,4 @@
+Hola a todos, mi nombre es Joel Gomez pero me pueden decir Joe, en 2021 empece a conocer un poco sobre este mundo mediante amigos y tuve la oportunidad de realizar un bootcamp para una empresa, desde ahi trate de seguir aprendiendo de forma autodidacta y pase por varios cursos.
+Me encantaria seguir mejorando y poniendo en practica mis conocimientos para asi poder trabajar de lo que mas me gusta :)
+Mi hobbie preferido es jugar al futbol, actualmente estoy construyendome un departamento y estoy invirtiendo mucho tiempo en eso :)
+No tiene nada que ver con desarrollo web pero lo ultimo que aprendi fue a reparar maquinas de soldar electronicas (inverter), ya que soy tecnico electromecanico y actualmente me estoy dedicando a eso.
